@@ -23,5 +23,5 @@ def print_board(bo):
                 print(bo[i][j])
             else:
                 print(str(bo[i][j]) + " ", end="")
-
+print_board(board)
             
